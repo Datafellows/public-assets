@@ -1,27 +1,7 @@
 @font-face {
   font-family: 'Organetto';
-  src: url('https://cdn.jsdelivr.net/gh/Datafellows/public-assets@main/fonts/Organetto-Light.woff2') format('woff2');
-  font-weight: 300;
+  src: url('https://cdn.jsdelivr.net/gh/Datafellows/public-assets@main/fonts/Organetto-Variable.woff2') format('woff2');
+  font-weight: 100 900;
   font-display: swap;
-}
-
-@font-face {
-  font-family: 'Organetto';
-  src: url('https://cdn.jsdelivr.net/gh/Datafellows/public-assets@main/fonts/Organetto-Regular.woff2') format('woff2');
-  font-weight: 400;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Organetto';
-  src: url('https://cdn.jsdelivr.net/gh/Datafellows/public-assets@main/fonts/Organetto-Bold.woff2') format('woff2');
-  font-weight: 700;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Organetto';
-  src: url('https://cdn.jsdelivr.net/gh/Datafellows/public-assets@main/fonts/Organetto-UltraBold.woff2') format('woff2');
-  font-weight: 800;
-  font-display: swap;
+  font-variation-settings: 'wdth' 100, 'wght' 100;
 }
