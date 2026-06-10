@@ -1,8 +1,7 @@
 @font-face {
   font-family: 'Organetto';
   src: local('Organetto-UltraBold'),
-       url('https://cdn.jsdelivr.net/gh/Datafellows/public-assets@main/fonts/Organetto-UltraBold.woff2') format('woff2');
+       url('https://cdn.jsdelivr.net/gh/Datafellows/public-assets@main/fonts/Organetto-UltraBold-static.woff2') format('woff2');
   font-weight: 800;
   font-style: normal;
-  font-variation-settings: 'wdth' 75, 'wght' 100;
 }
