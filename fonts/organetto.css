@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Organetto';
-  src: url('https://cdn.jsdelivr.net/gh/Datafellows/public-assets@e80fa11d9cf5b0fa356d75cf01680f4bcc19b7a0/fonts/Organetto-Variable.woff2') format('woff2');
-  font-weight: 100 900;
-  font-display: swap;
-  font-variation-settings: 'wdth' 75, 'wght' 100;
+  src: local('Organetto-UltraBold'),
+       url('file:///android_asset/fonts/Organetto-UltraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
 }
